@@ -1,0 +1,42 @@
+.row{
+   
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+ .yellow{
+    width: 200px;
+    height: 600px;
+    border: 1px solid	black;
+    float: left;
+    margin: 11px;
+    background-color: yellow;
+}
+
+.orange{
+    width: 200px;
+    height: 600px;
+    border: 1px solid	black;
+    float: left;
+    margin: 11px;
+    background-color: blue;
+}
+
+.lightgreen{
+    width: 200px;
+    height: 600px;
+    border: 1px solid	black;
+    float: left;
+    margin: 11px;
+    background-color: lightgreen;
+}
+
+.blue{
+    width: 200px;
+    height: 600px;
+    border: 1px solid	black;
+    float: left;
+    margin: 11px;
+    background-color: orange;
+}
